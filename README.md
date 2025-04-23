@@ -91,6 +91,10 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ## STM 32 CUBE PROGRAM :
 
 ```c
+
+// Name: Priyadharshan S
+// Reg No: 212223240127
+
 #include "main.h"
 
 void SystemClock_Config(void);
